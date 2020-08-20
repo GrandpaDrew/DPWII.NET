@@ -1,5 +1,7 @@
 DPWII brought to you by Drew Wallace
 
+UPDATE: Webpage can be found at DPWII.net
+
 I spent many hours working tirelessly on this webpage.
 I knew from the beginning that I was going to make a "portfolio" webpage, something to display all of my works, 
 in and outside of class.
